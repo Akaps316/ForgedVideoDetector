@@ -16,12 +16,3 @@
 5. Run the 'trainer.m' file to train the system on your training set which creates a 'trained_ensemble.mat' file, which stores the data in this variable to be used further in the testing purposes.
 
 6. Finally, run the 'tester.m' file to test on a particular video by giving input the feature extracted matrix (.mat) file for that video and also the 'trained_ensemble' variable to give as input, formed in the previous file (trainer.m).
-
-
-Code Designers:
-
-Pramjeet Kumar (IIT2014040)
-Parth Goel (IIT2014052)
-Yashwant (IIT2014051)
-Preshit Gupta (IIT2014095)
-Aman Mehrotra (IIT2014096)
