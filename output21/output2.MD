@@ -1,0 +1,1 @@
+Store frames from testing videos into individual subfolders based on video name, here.

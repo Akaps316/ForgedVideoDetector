@@ -1,0 +1,1 @@
+Store frames from training videos into individual subfolders based on video name, here.
